@@ -1,0 +1,8 @@
+github.com/qevo/go-char/char/gen v0.0.0-20221116162430-3c5b339d0e8d h1:xA6f/UJdD3Sxdy5Vopxe1h23e22x+jv6ekjRQR6aQQI=
+github.com/qevo/go-char/char/gen v0.0.0-20221116162430-3c5b339d0e8d/go.mod h1:XSMkj9EjgDWJ86pohU6qLHlrI0PKkqpvKl7kaqcJheg=
+github.com/qevo/go-char/char/sub v0.0.0-20221116162430-3c5b339d0e8d h1:slXOuCFPs/RXWRmC/LRecBqS73+9iP3lOLgvq2KtCF4=
+github.com/qevo/go-char/char/sub v0.0.0-20221116162430-3c5b339d0e8d/go.mod h1:sueHhZ6EPaPx5Br0vS0LscUxWrolMS9xPI7LQrckvuA=
+github.com/qevo/go-shiftidx/shiftidx v0.0.0-20221116161027-8798f85ef05d h1:AL2Q1/dyfnpVeCzWiaL8UeSRZkXj0c9dCpH242IW1pM=
+github.com/qevo/go-shiftidx/shiftidx v0.0.0-20221116161027-8798f85ef05d/go.mod h1:XofxDuwbltZnmtEiHrXS4iERE6BEERpbxD6MV/IKwyI=
+github.com/rivo/uniseg v0.4.2 h1:YwD0ulJSJytLpiaWua0sBDusfsCZohxjxzVTYjwxfV8=
+github.com/rivo/uniseg v0.4.2/go.mod h1:FN3SvrM+Zdj16jyLfmOkMNblXMcoc8DfTHruCPUcx88=
