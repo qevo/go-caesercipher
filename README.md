@@ -3,9 +3,18 @@
 Go-caesercipher is a tool for encoding and decoding English text by
 changing the position of letters in the alphabet.
 
+Try it out and explore changes: [https://go.dev/play/p/YGRUw0tU8F4]
 
-The Caesar cipher is named after Julius Caesar, who, according to Suetonius, used it with a shift of three (A becoming D when encrypting, and D becoming A when decrypting) to protect messages of military significance. While Caesar's was the first recorded use of this scheme, other substitution ciphers are known to have been used earlier.[4][5]
 
-> "If he had anything confidential to say, he wrote it in cipher, that is, by so changing the order of the letters of the alphabet, that not a word could be made out. If anyone wishes to decipher these, and get at their meaning, he must substitute the fourth letter of the alphabet, namely D, for A, and so with the others."
->
-> — Suetonius, Life of Julius Caesar 56
+
+Caeser Cipher History
+
+In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift cipher,
+Caesar's code or Caesar shift, is one of the simplest and most widely known encryption
+techniques. It is a type of substitution cipher in which each letter in the plaintext
+is replaced by a letter some fixed number of positions down the alphabet. For example,
+with a left shift of 3, D would be replaced by A, E would become B, and so on. The
+method is named after Julius Caesar, who used it in his private correspondence.
+
+Source: [https://en.wikipedia.org/wiki/Caesar_cipher]
+
